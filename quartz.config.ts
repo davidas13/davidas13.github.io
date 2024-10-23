@@ -13,7 +13,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "google",
-      tagId: "G-9PYQDQCM6S",
+      tagId: "G-9PYQDQCM6S ",
     },
     locale: "en-US",
     baseUrl: "davidas13.github.io",
