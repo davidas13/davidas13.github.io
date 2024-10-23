@@ -85,6 +85,16 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
       gtagScript.async = true
       document.head.appendChild(gtagScript)
 
+      const inlineScript = document.createElement("script");
+      inlineScript.text = \`
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', '${tagId}');
+      \`;
+      document.head.appendChild(inlineScript);
+
       window.dataLayer = window.dataLayer || [];
       function gtag() { dataLayer.push(arguments); }
       gtag("js", new Date());
