@@ -7,9 +7,7 @@ description: Homepage
 publish: true
 ---
 
-*Bismillahirrahmanirrahim*
-
-Halo, saya [[about_me.md|David]], saya seseorang yang senang mengeksplorasi berbagai hal tentang teknologi.
+Halo, saya [[about_me.md|David]], saya senang mengeksplorasi berbagai hal tentang teknologi.
 
 Ini adalah tempat di mana saya membagikan catatan pribadi dan dokumentasi belajar yang saya kumpulkan dari waktu ke waktu.
 
