@@ -1,6 +1,6 @@
 ---
 title: Shell Command antara Linux dan Windows
-tags: ['🌏Content/Note/Basic']
+tags: ['content/notes/basic']
 aliases: []
 date: 2024-11-15T17:30
 description:  

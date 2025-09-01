@@ -1,6 +1,6 @@
 ---
 title: Home
-tags: ['🌏Content/Main']
+tags: ['content']
 aliases: ['Home', 'Homepage', 'Home page']
 date: 2024-11-14T12:12
 description: Homepage 
@@ -13,6 +13,5 @@ Ini adalah tempat di mana saya membagikan catatan pribadi dan dokumentasi belaja
 
 Catatan di sini akan terus saya perbarui secara berkala. Berikut beberapa halaman yang dapat dikunjungi:
 - [[posts/index.md|Posts]]
-- [[projects/index.md|Projects]]
 - [[notes/index.md|Notes]]
 - [[personal_changelog.md|Personal Changelog]]

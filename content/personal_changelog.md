@@ -1,6 +1,6 @@
 ---
 title: Personal Changelog
-tags: ['🌏Content/Main']
+tags: ['content']
 aliases: []
 date: 2024-11-14T12:46
 description: Daftar riwayat segala hal yang telah atau sedang saya kerjakan. 
