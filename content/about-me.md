@@ -1,8 +1,11 @@
 ---
 title: About Me
-tags: ['content']
+tags: []
 aliases: ['david', 'David', 'david.satrio']
-date: 2024-11-14T12:16
+date: 2025-09-08T04:59
 description:  
 publish: true
+enableToc: False
 ---
+
+# about_me

@@ -1,11 +1,14 @@
 ---
-title: Shell Command antara Linux dan Windows
-tags: ['content/notes/basic']
+title: Shell Commands Linux and Windows
+tags: ['content', 'shell', 'cli']
 aliases: []
-date: 2024-11-15T17:30
+date: 2025-09-08T04:58
 description:  
 publish: true
+enableToc: False
 ---
+
+# Shell Commands Linux Windows
 
 *[[Shell]]* merupakan antarmuka baris perintah (_command line interface_/CLI) yang menjadi bagian tak terpisahkan dari setiap sistem operasi, meskipun mungkin jarang digunakan oleh pengguna [[Windows]] rumahan (itupun sepengetahuan saya 😊).
 

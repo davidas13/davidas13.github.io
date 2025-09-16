@@ -1,8 +1,11 @@
 ---
-title: Notes
-tags: ['content/notes/index']
-aliases: []
-date: 2024-11-14T12:16
+title: index
+tags: ['test']
+aliases: ['Index']
+date: 2025-09-08T04:59
 description:  
 publish: true
+enableToc: False
 ---
+
+# Index

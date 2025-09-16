@@ -1,17 +1,20 @@
 ---
 title: Home
-tags: ['content']
+tags: []
 aliases: ['Home', 'Homepage', 'Home page']
-date: 2024-11-14T12:12
+date: 2025-09-08T04:58
 description: Homepage 
 publish: true
+enableToc: False
 ---
 
-Halo, saya [[about_me.md|David]], saya senang mengeksplorasi berbagai hal tentang teknologi.
+# Index
+
+Halo, saya [[/|About Me]], saya senang mengeksplorasi berbagai hal tentang teknologi.
 
 Ini adalah tempat di mana saya membagikan catatan pribadi dan dokumentasi belajar yang saya kumpulkan dari waktu ke waktu.
 
 Catatan di sini akan terus saya perbarui secara berkala. Berikut beberapa halaman yang dapat dikunjungi:
-- [[posts/index.md|Posts]]
+- [[/posts|Posts]]
 - [[notes/index.md|Notes]]
-- [[personal_changelog.md|Personal Changelog]]
+- [[/|Personal Changelog]]
