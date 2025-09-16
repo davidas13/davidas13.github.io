@@ -2,7 +2,7 @@
 title: Shell Commands Linux and Windows
 tags: ['content', 'shell', 'cli']
 aliases: []
-date: 2025-09-08T04:58
+date: 2025-09-08T08:15
 description:  
 publish: true
 enableToc: False
@@ -14,7 +14,7 @@ enableToc: False
 
 Di sisi lain, penggunaan *shell* merupakan aspek fundamental dalam mengoperasikan sistem operasi [[Linux]]. Para *Programmer* dan *Developer* khususnya, kerap memanfaatkan aplikasi *[[terminal]]* untuk menunjang aktivitas mereka.
 
-Daftar perintah _shell_ pada Windows memang relatif lebih terbatas dibandingkan dengan Linux. Sebagai gambaran, Windows memiliki sekitar [[https://www.ninjaone.com/blog/windows-cmd-commands/#:~:text=How%20many%20Windows%20CMD%20commands%20are%20there?|280-300 perintah]], sementara Linux menawarkan lebih dari [[https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/#:~:text=Did%20you%20know%20that%20there%20are%20literally%20hundreds%20of%20Linux%20commands?%20Even%20on%20a%20bare%2Dbones%20Linux%20server%20install%20there%20are%20easily%20over%201%2C000%20different%20commands.|1000 perintah]] (jumlahnya bervariasi tergantung distro yang digunakan). Menariknya, perintah-perintah Linux tersebut sebenarnya dapat diakses di Windows melalui *software* seperti [[Cygwin]], [[MSYS]], [[GnuWin32]], dan [[WSL]].
+Daftar perintah _shell_ pada Windows memang relatif lebih terbatas dibandingkan dengan Linux. Sebagai gambaran, Windows memiliki sekitar [[https://www.ninjaone.com/blog/windows-cmd-commands/#:~:text=How%20many%20Windows%20CMD%20commands%20are%20there?|280-300 perintah]], sementara Linux menawarkan lebih dari[[https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/#:~:text=Did%20you%20know%20that%20there%20are%20literally%20hundreds%20of%20Linux%20commands?%20Even%20on%20a%20bare%2Dbones%20Linux%20server%20install%20there%20are%20easily%20over%201%2C000%20different%20commands.|1000 perintah]] (jumlahnya bervariasi tergantung distro yang digunakan). Menariknya, perintah-perintah Linux tersebut sebenarnya dapat diakses di Windows melalui *software* seperti [[Cygwin]], [[MSYS]], [[GnuWin32]], dan [[WSL]].
 
 Berikut beberapa daftar perintah antara Linux dan Windows:
 
