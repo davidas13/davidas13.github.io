@@ -1,0 +1,13 @@
+[tools]
+bun = "1.3.6"
+python = "3.14"
+
+
+[tasks.quartz]
+run = "bun quartz"
+
+[tasks.dev]
+run  = "mise run quartz build --serve"
+
+[tasks.upgrade]
+run = "mise run quartz update"
